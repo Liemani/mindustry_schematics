@@ -1,13 +1,15 @@
 path on Mac : ~/Library/Application Support/Mindustry/schematics
 
-[first : category]
+[word seperator : '-']
+
+[first word : category]
 erekir
 erepulo
 serpulo
-z : deprecated
-zz : low priority
+z prefix : low priority
+zz prefix : deprecated
 
-[middle : unit]
+[middle word : unit]
 tank
 ship
 mech
